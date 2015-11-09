@@ -1,2 +1,2 @@
 # azure-quickstart-templates-couchbase
-update
+updated
